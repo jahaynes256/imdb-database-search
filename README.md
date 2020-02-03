@@ -1,3 +1,5 @@
+![IMDB Search](https://user-images.githubusercontent.com/8599598/73617964-e46cec80-45f1-11ea-8ca6-ccea8c79d312.png)
+
 # Movie Database Manager & Query
 Currently creates a new SQL Database from IMDB datasets and allows the user to use SQL Queries on the database.
 
